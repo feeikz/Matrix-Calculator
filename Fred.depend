@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1512671479 source:c:\users\oem\desktop\fred\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+
+1512679855 source:c:\users\anonym\dropbox\fred\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+
+1512844788 source:c:\users\oem\dropbox\fred\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1512847475 source:c:\users\pc\downloads\fred (2)\fred\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1512939778 source:e:\programovanie\codeblocks\fred\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1513542204 source:e:\programovanie\codeblocks\semestralka\solution\main.cpp
+	"main.h"
+
+1513542142 e:\programovanie\codeblocks\semestralka\solution\main.h
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1513542204 source:c:\users\pc\desktop\škola\2.roènik\pri-sem\zaj0098\solution\main.cpp
+	"main.h"
+
+1513542142 c:\users\pc\desktop\škola\2.roènik\pri-sem\zaj0098\solution\main.h
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+
